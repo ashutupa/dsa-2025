@@ -1,0 +1,22 @@
+{
+  "name": "dsa-2025",
+  "version": "1.0.0",
+  "description": "Data Structures and Algorithms Practice 2025",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [
+    "algorithms",
+    "data-structures",
+    "practice",
+    "leetcode",
+    "javascript"
+  ],
+  "author": "Ashutosh",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
